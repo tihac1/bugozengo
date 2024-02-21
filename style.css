@@ -1,0 +1,49 @@
+.body{
+    background-color: black;
+}
+.dgsgeridon{
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-style: italic;
+    position: absolute;
+    top: 80px;
+    left: 1150px;
+    font-size: 24px;
+}
+.mart9{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 23px;
+    right: 750px;
+    top: 50px;
+}
+.bugrazengin{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    font-size: 23px;
+    right: 738px;
+    top: 20px;
+}
+
+.cahitbaslik{
+    color: white;
+    font-size: 22px;
+    margin-top: 150px;
+    margin-left: 150px;
+    line-height: 30px;
+}
+.bugo1div{
+    width: 90%;
+}
+
+.cahityazi{
+    color: white;   
+    font-size: 22px;
+    line-height: 30px;
+    position: absolute;
+    top: 340px;
+    left: 200px;
+}
