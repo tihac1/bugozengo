@@ -331,4 +331,22 @@
     .ozelbuton:active{
         transform: scale(0.5);
     }
+    .sifrediv{
+        position: relative;
+        left: 50px;
+        width: 300px;
+
+    }
+    .sifre{
+        width: 200px;
+        position: absolute;
+        left: 50px;
+    }
+    .accept{
+        left: 50px;
+        height: 30px;
+    }
+    .ipucu{
+        left: 120px;
+    }
 }
