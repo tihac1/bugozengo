@@ -133,6 +133,19 @@
     margin-top: 10px;
     margin-left: 120px;
 }
+.holdredbaslik1{
+    color: white;
+    font-size: 22px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.holdredyazi1{
+    color: white;
+    font-size: 22px;
+    line-height: 30px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
 .ozelbuton{
     width: 150px;
     height: 50px;
@@ -276,6 +289,19 @@
         margin-top: 100px;
     }
     .furkanyazi1{
+        color: white;
+        font-size: 22px;
+        line-height: 30px;
+        margin-top: 10px;
+        margin-left: 20px;
+    }
+    .holdredbaslik1{
+        color: white;
+        font-size: 22px;
+        margin-left: 150px;
+        margin-top: 100px;
+    }
+    .holdredyazi1{
         color: white;
         font-size: 22px;
         line-height: 30px;
